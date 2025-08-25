@@ -4,7 +4,8 @@
 [![Gmail](https://img.shields.io/badge/-sandotmp%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sandotmp@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/tuusuario?label=Follow&style=social)](https://github.com/sandoxp)
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGdjY29ha2Z6YjVtNG90M3lmNWFzZWU1M3NucXoyZTJzNW9tNTdqeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QbumCX9HFFDQA/giphy.gif" width="530"/>
+
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExemJ4MTU0b3lmYWNza25yMGc2MGIyOGdpdjZxYmUzMXdydW1hZmNoeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mWY8bJS2bplx6/giphy.gif" width=700>
 
 ```python
 class Estudiante:
