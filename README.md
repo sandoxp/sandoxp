@@ -5,7 +5,7 @@
 [![GitHub](https://img.shields.io/github/followers/tuusuario?label=Follow&style=social)](https://github.com/sandoxp)
 
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExemJ4MTU0b3lmYWNza25yMGc2MGIyOGdpdjZxYmUzMXdydW1hZmNoeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mWY8bJS2bplx6/giphy.gif" width=700>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExenpydmZnNzZldnozOXNpaXNkdm00bzd5enc4cm45Mm5wNzZpdndwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tlGD7PDy1w8fK/giphy.gif" width=700>
 
 ```python
 class Estudiante:
