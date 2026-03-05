@@ -7,31 +7,3 @@
 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExenpydmZnNzZldnozOXNpaXNkdm00bzd5enc4cm45Mm5wNzZpdndwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tlGD7PDy1w8fK/giphy.gif" width=700>
 
-```python
-class Estudiante:
-    def __init__(self):
-        self.nombre = "Sebastián Sandoval"
-        self.rol = "Estudiante de Ingeniería en Informática"
-        self.universidad = "Pontificia Universidad Católica de Valparaíso (PUCV)"
-        self.ubicacion = "Valparaíso, Chile"
-        self.lenguajes = ["Python", "C", "Java", SQL]
-        self.proyectos = [
-            "Gestión de Agenda",
-            "Predicción de precios de casas",
-            "Algoritmo genético para MKP"
-        ]
-        self.investigacion = [
-            "Inteligencia Artificial",
-            "Optimización Combinatoria"
-        ]
-        self.reto_actual = "Aprendiendo JavaScript"
-  
-    def saludar(self):
-        print("Hola, soy Sebastián Sandoval!")
-
-yo = Estudiante()
-yo.saludar()
-
-
-
-
